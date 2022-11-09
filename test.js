@@ -7,3 +7,5 @@ if (money > 1000) {
 }
 
 console.log(`I have ${money} won`);
+
+console.log('5th commit');
