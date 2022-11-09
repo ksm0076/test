@@ -1,4 +1,4 @@
-var money = 2000;
+const money = 2000;
 
 if (money > 1000) {
   console.log('take bus');
@@ -6,6 +6,4 @@ if (money > 1000) {
   console.log('walk');
 }
 
-console.log("I have " + money + " won");
-
-h
+console.log(`I have ${money} won`);
